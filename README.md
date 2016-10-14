@@ -1,5 +1,5 @@
 # Smart-Hotel
-Hi guys..I am interested to implement a project on managing the orders payments and other works for a remote hotel from anywhere using GPS.
+Hi guys..I am interested to implement a project on managing the orders & payments  for a remote hotel from anywhere using GPS.
 My scratch idea is
 1.Turn on the GPS
 2.search nearby hotels
